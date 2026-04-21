@@ -22,5 +22,4 @@ env/
 Thumbs.db
 
 # Generated heavy outputs
-final_canvas.png
 *.log
